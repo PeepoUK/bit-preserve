@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 251715-01
+D C64E PLA and Support Logic
+$ENDCMP
+#
+$CMP 252535-01
+D C64E PLA and Support Logic with Colour SRAM
+$ENDCMP
+#
 $CMP 906114-01
 D Programmable Logic Array (PLA) memory controller for the Commodore 64
 K PLA,memory controller,C64
